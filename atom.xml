@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://violeteternal.github.io/UndertaleAU</id>
     <title>EternalTale</title>
-    <updated>2022-02-23T05:17:24.119Z</updated>
+    <updated>2022-02-23T05:42:10.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://violeteternal.github.io/UndertaleAU"/>
     <link rel="self" href="https://violeteternal.github.io/UndertaleAU/atom.xml"/>
@@ -10,13 +10,4 @@
     <logo>https://violeteternal.github.io/UndertaleAU/images/avatar.png</logo>
     <icon>https://violeteternal.github.io/UndertaleAU/favicon.ico</icon>
     <rights>All rights reserved 2022, EternalTale</rights>
-    <entry>
-        <title type="html"><![CDATA[About]]></title>
-        <id>https://violeteternal.github.io/UndertaleAU/post/about/</id>
-        <link href="https://violeteternal.github.io/UndertaleAU/post/about/">
-        </link>
-        <updated>2022-02-22T05:04:17.000Z</updated>
-        <content type="html"><![CDATA[<p>nothing now</p>
-]]></content>
-    </entry>
 </feed>
