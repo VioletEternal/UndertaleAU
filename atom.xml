@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://violeteternal.github.io/UndertaleAU</id>
     <title>EternalTale</title>
-    <updated>2022-02-23T05:42:43.591Z</updated>
+    <updated>2022-02-25T08:23:39.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://violeteternal.github.io/UndertaleAU"/>
     <link rel="self" href="https://violeteternal.github.io/UndertaleAU/atom.xml"/>
@@ -10,4 +10,29 @@
     <logo>https://violeteternal.github.io/UndertaleAU/images/avatar.png</logo>
     <icon>https://violeteternal.github.io/UndertaleAU/favicon.ico</icon>
     <rights>All rights reserved 2022, EternalTale</rights>
+    <entry>
+        <title type="html"><![CDATA[FS!Determination Time Trio]]></title>
+        <id>https://violeteternal.github.io/UndertaleAU/post/fsdetermination-time-trio/</id>
+        <link href="https://violeteternal.github.io/UndertaleAU/post/fsdetermination-time-trio/">
+        </link>
+        <updated>2022-02-25T08:20:15.000Z</updated>
+        <summary type="html"><![CDATA[<p>官译：落幕！三重决心时光</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>官译：落幕！三重决心时光</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaotic Time Trio]]></title>
+        <id>https://violeteternal.github.io/UndertaleAU/post/chaotic-time-trio/</id>
+        <link href="https://violeteternal.github.io/UndertaleAU/post/chaotic-time-trio/">
+        </link>
+        <updated>2022-02-25T08:07:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>官译(?)：三重混沌时光</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>官译(?)：三重混沌时光</p>
+<!-- more -->
+<p>更新方式：OST</p>
+]]></content>
+    </entry>
 </feed>
