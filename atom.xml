@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://violeteternal.github.io/UndertaleAU</id>
     <title>EternalTale</title>
-    <updated>2022-02-25T08:28:57.619Z</updated>
+    <updated>2022-02-27T05:42:51.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://violeteternal.github.io/UndertaleAU"/>
     <link rel="self" href="https://violeteternal.github.io/UndertaleAU/atom.xml"/>
@@ -32,7 +32,40 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>官译(?)：三重混沌时光</p>
 <!-- more -->
-<p>更新方式：OST</p>
+<p>更新方式：OST以及粉丝更新的同人<br>
+所属：<a href="https://space.bilibili.com/149967329?from=search&amp;seid=719385077178508210&amp;spm_id_from=333.337.0.0">晨曦_wx</a>和<a href="https://space.bilibili.com/1960808643">詹姆斯-冰火</a></p>
+<div style="position: relative; padding: 30% 45%;">
+    <iframe style="
+        position: absolute; 
+        width: 100%; 
+        height: 100%; 
+        left: 0; top: 0;" 
+        src="//player.bilibili.com/player.html?aid=722808709&bvid=BV1TD4y1F77s&cid=475794124&page=1" 
+        scrolling="no" 
+        border="0" 
+        frameborder="no" 
+        framespacing="0" 
+        allowfullscreen="true">
+    </iframe>
+</div>
+<p>AU类型：多AU联动</p>
+<p>包含：</p>
+<p><a href="https://search.bilibili.com/all?keyword=undertale%3ATears%20in%20the%20Rain">Undertale:Tears in the Rain</a> by Dropoff</p>
+<p><a href="https://search.bilibili.com/all?keyword=Undertale%3ACall%20Of%20The%20Void">Undertale:Call Of The Void</a> By Saster/J-Bug</p>
+<p><a href="https://search.bilibili.com/all?keyword=Undertale%3ABetrayer">Undertale:Betrayer</a> By Avranik</p>
+<p><a href="https://search.bilibili.com/all?keyword=Undertale%3AKarma%27s%20a%20B1%23ch&amp;from_source=web_search">Undertale:Karma's a B1#ch</a> By Meme Force</p>
+<p>OST总览：</p>
+<p>OST-001 Main Menu<br>
+OST-002 Common Goal<br>
+OST-003 A Chaotic Encounter<br>
+OST-004 Unrepentant<br>
+OST-005 The Existences' Arrogant Re-Strike<br>
+OST-006 ???<br>
+OST-007 ???<br>
+OST-008 Game Over<br>
+OST-009 Story Begin<br>
+OST-010 Credit<br>
+OST-011 Bonus</p>
 ]]></content>
     </entry>
 </feed>
